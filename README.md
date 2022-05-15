@@ -1,3 +1,5 @@
-Hi, my name is Wolfgang, I am a Pascal/Delphi-Developer since Borland Pascal 7.0. 
+Hello, 
 
-I have a lot experiences in programming console-apps from Windows 3.11 to Windows 11.
+my name is Wolfgang. I'm from Germany and I'm programming in Pascal since Borland Pascal 7.0. 
+
+I work with Delphi and Lazarus and I am an expert in console applications.
